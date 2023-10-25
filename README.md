@@ -12,7 +12,9 @@ Somos:
 ### 3. Desarrollar un programa que permita ingresar dos números enteros y determinar si se tratan de números espejos, definiendo números espejos como dos números a y b tales que a se lee de izquierda a derecha igual que se lee b de derecha a izquierda, y viceversa.
 ### 4. Diseñar una función que permita calcular una aproximación de la función coseno alrededor de 0 para cualquier valor x (real), utilizando los primeros n términos de la serie de Taylor. **nota:** use *math* para traer la función coseno y mostrar la diferencia entre el valor real y la aproximación. Calcule con cuántos términos de la serie (i.e: cuáles valores de n), se tienen errores del 10%, 1%, 0.1% y 0.001%.
 
-![P_4](https://github.com/Cate1911/Programando_entre_gargajos/assets/141857246/6d6dd17e-5656-49c1-8953-05ae3b12cb67)
+![P_4a](https://github.com/Cate1911/Programando_entre_gargajos/assets/141857246/66a9c189-3cfe-4eb9-b84f-f0c93d8f174a)
+
+![P_4b](https://github.com/Cate1911/Programando_entre_gargajos/assets/141857246/ac04244b-950c-4686-aa30-1dd4ad1acc15)
 
 ### 5. Desarrollar un programa que permita determinar el Minimo Comun Multiplo de dos numeros enteros. Abordar el problema desde una perpectiva tanto iterativa como recursiva. **Pista:** Puede ser de utilidad chequear el [Algoritmo de Euclides](https://es.wikipedia.org/wiki/Algoritmo_de_Euclides) para el cálculo del Máximo Común Divisor, y revisar cómo se relaciona este último con el Mínimo Común Múltiplo.
 ### 6. Desarrollar un programa que determine si en una lista existen o no elementos repetidos. **Pista:** Maneje valores booleanos y utilice el operador *in*.
