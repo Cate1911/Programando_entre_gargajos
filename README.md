@@ -14,7 +14,7 @@ Somos:
 
 ![P_4a](https://github.com/Cate1911/Programando_entre_gargajos/assets/141857246/66a9c189-3cfe-4eb9-b84f-f0c93d8f174a)
 
-![P_4b](https://github.com/Cate1911/Programando_entre_gargajos/assets/141857246/ac04244b-950c-4686-aa30-1dd4ad1acc15)
+![P_4b](https://github.com/Cate1911/Programando_entre_gargajos/assets/141857246/0addad88-f86f-42a7-8277-a042a8c16b18)
 
 ### 5. Desarrollar un programa que permita determinar el Minimo Comun Multiplo de dos numeros enteros. Abordar el problema desde una perpectiva tanto iterativa como recursiva. **Pista:** Puede ser de utilidad chequear el [Algoritmo de Euclides](https://es.wikipedia.org/wiki/Algoritmo_de_Euclides) para el cálculo del Máximo Común Divisor, y revisar cómo se relaciona este último con el Mínimo Común Múltiplo.
 ### 6. Desarrollar un programa que determine si en una lista existen o no elementos repetidos. **Pista:** Maneje valores booleanos y utilice el operador *in*.
