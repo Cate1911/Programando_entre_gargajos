@@ -49,6 +49,12 @@ Somos:
 
 ### 7. Desarrollar un programa que determine si en una lista se encuentra
 una cadena de caracteres con dos o más vocales. Si la cadena existe debe imprimirla y si no existe debe imprimir 'No existe'.
+
+
+![image](https://github.com/Cate1911/Programando_entre_gargajos/assets/142174506/0a0ac954-24a1-40fd-8691-8cb43fb7e4c7)
+
+
+
 ### 8. Desarrollar un programa que dadas dos listas determine que elementos tiene la primer lista que no tenga la segunda lista. **Ejemplo:**
 <center>
 <table border="1">
@@ -69,6 +75,15 @@ salida: [1, True]
 ![P_8](https://github.com/Cate1911/Programando_entre_gargajos/assets/141857246/0da633a5-49c9-41cc-a6ef-859692ac13d6)
 
 ### 9. Resolver el punto 7 del [taller 1](https://github.com/fegonzalez7/pdc_unal_clase8) usando operaciones con vectores.
+
+![image](https://github.com/Cate1911/Programando_entre_gargajos/assets/142174506/5c3f6cb0-c6c1-4062-83d4-7e740f80cf56)
+
+
+![image](https://github.com/Cate1911/Programando_entre_gargajos/assets/142174506/8f1c37f0-e062-4c96-85f9-005919b205e2)
+
+
+
+
 
 ### 10. Suponga que se tiene una lista A con ciertos números enteros. Desarrolle una función que, independientemente de los números que se encuentran en la lista A, tome aquellos números que son múltiplos de 3 y los guarde en una lista nueva, la cual debe ser **retornada** por la función. Implemente la perspectiva de un *patrón de acumulación* y también de *comprensión de listas*. **Desafío:** Si ya lo logró, inténtelo ahora sin utilizar el módulo (%). **Pista:** Un número es multiplo de 3 si la suma de sus dígitos también lo es, ¿verdad?
 Aquí lo hicimos de dos formas, usando el operador % y teniendo en cuenta que la suma de los dígitos de un múltiplo de 3 siempre de un múltiplo de 3.
