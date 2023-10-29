@@ -5,6 +5,10 @@ Somos:
 ![image](https://github.com/Cate1911/Programando_entre_gargajos/assets/141857246/730c8d04-14e6-450e-8fa7-2a461c323002)
 
 ### 1. Desarrollar un programa que ingrese un número entero n y separe todos los digitos que componen el número. **Pista:** Utilice los operadores módulo (%) y división entera (//).
+
+![image](https://github.com/Cate1911/Programando_entre_gargajos/assets/142174506/89d26af7-8030-4166-ba6e-f0de60b17040)
+ 
+
 ### 2. Desarrollar un programa que ingrese un número flotante n y separe su parte entera de la parte decimal, y luego entregue los dígitos tanto de la parte entera como de la decimal.
   
 ![P_2](https://github.com/Cate1911/Programando_entre_gargajos/assets/141857246/b76e8b0d-2d7c-4c5b-b24b-7fffd6a17e5f)
